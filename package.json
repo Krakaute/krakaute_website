@@ -1,0 +1,10 @@
+{
+    "name": "morpion",
+    "version": "0.1.1",
+    "author": "Krakaute",
+    "description": "Le jeu du morpion en ligne",
+    "dependencies": {
+        "express": "^4.16.0",
+        "socket.io": "^2.1.1"
+    }
+}
