@@ -1,0 +1,20 @@
+var news = [
+  {
+    "id" : 0,
+    "date" : "07/08/2018",
+    "heure" : "23:00",
+    "info" : "Le site est en ligne! Merci aux solutions de Lumaric, et à l'écoute de PK!"
+  },
+  {
+    "id" : 1,
+    "date" : "08/08/2018",
+    "heure" : "00:00",
+    "info" : "Le morpion fonctionne ! Mais pour l'instant on ne peut que jouer seul... -_-"
+  },
+  {
+    "id" : 2,
+    "date" : "23/09/2018",
+    "heure" : "00:10",
+    "info" : "Grosse maj (0.1.1!), mise en ligne sur github, changement des dossiers, arrivée des bulz!"
+  }
+]
